@@ -44,7 +44,7 @@ class Empleado{
     }
    }
    
-   $(document).ready(function(){
+    $(document).ready(function(){
     $('#miFormulario').submit(function(e){
      e.preventDefault();
      
